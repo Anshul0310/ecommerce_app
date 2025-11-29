@@ -6,34 +6,50 @@ class Cart extends ChangeNotifier {
   // list of shoe for sale
   List<Shoe> shoeShop = [
     Shoe(
-      name: 'Zoom FREAK',
+      name: 'Zoom Freak 2',
       price: '236',
       imagePath: 'lib/images/Zoom_Freak.png',
-      description: 'The Forward-Thinking design if his latest signature shoe.',
+      description: 'The forward-thinking design of his latest signature shoe.',
     ),
 
     Shoe(
-      name: 'Air Jordan',
+      name: 'Air Jordan 1 Mid',
       price: '220',
       imagePath: 'lib/images/Air-Jordan-PNG-Free-File-Download.png',
       description:
-          'Air Jordan 1 Mid Men\'s Shoes Inspired by the original AJ1, this mid-top edition maintains the iconic look you love while choice colors and crisp leather give it a distinct identity',
+          'Inspired by the original AJ1, this mid-top edition maintains the iconic look you love.',
     ),
 
     Shoe(
-      name: 'KD Trey',
+      name: 'KD Trey 5 VIII',
       price: '220',
       imagePath: 'lib/images/KDTrey.png',
       description:
-          'With its lightweight upper and plush support system, the KD Trey can help you float like KD, waiting for the perfect moment to drive to the hoop.',
+          'Lightweight upper and plush support system for floating like KD.',
     ),
 
     Shoe(
-      name: 'Kyrie 6',
+      name: 'Kyrie 6 \'Egypt\'',
       price: '220',
       imagePath: 'lib/images/kyrie6.png',
       description:
-          'Continuing to tell the history of ancient Egypt, Concepts honours the Egyptian god Khepri Ra, who represents the movement of the rising sun.',
+          'Honoring the Egyptian god Khepri Ra, representing the rising sun.',
+    ),
+
+    Shoe(
+      name: 'Air Force 1 Ambush',
+      price: '190',
+      imagePath: 'lib/images/Air_Force_1_Ambush.jpg',
+      description:
+          'A bold collaboration featuring exaggerated details and premium leather.',
+    ),
+
+    Shoe(
+      name: 'Nike Dunk High Ambush',
+      price: '180',
+      imagePath: 'lib/images/Nike_Dunk_High_Ambush.webp',
+      description:
+          'Deep Royal Blue meets white and black in this exaggerated Dunk High design.',
     ),
   ];
   // list of items in user cart
