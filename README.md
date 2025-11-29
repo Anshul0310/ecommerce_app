@@ -1,4 +1,4 @@
-# 🦇 Batman Style E-Commerce App
+# E-Commerce App
 
 A sleek, dark-themed sneaker shop built with Flutter, featuring a custom "Batman" aesthetic with glassmorphism effects and smooth animations.
 
@@ -17,27 +17,6 @@ A sleek, dark-themed sneaker shop built with Flutter, featuring a custom "Batman
 -   **Clean Navigation**:
     -   Top-right Cart access (No bottom bar).
     -   Custom Drawer with themed icons.
-
-## 📱 Screenshots
-
-| Shop Page | Cart Page | Menu |
-|:---:|:---:|:---:|
-| *(Add Screenshot)* | *(Add Screenshot)* | *(Add Screenshot)* |
-
-## 🚀 Getting Started
-
-1.  **Clone the repo**:
-    ```bash
-    git clone https://github.com/Anshul0310/ecommerce_app.git
-    ```
-2.  **Install dependencies**:
-    ```bash
-    flutter pub get
-    ```
-3.  **Run the app**:
-    ```bash
-    flutter run
-    ```
 
 ## 🛠️ Tech Stack
 
