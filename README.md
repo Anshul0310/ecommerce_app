@@ -26,4 +26,3 @@ A sleek, dark-themed sneaker shop built with Flutter, featuring a custom "Batman
 -   **Glassmorphism** (BackdropFilter)
 
 ---
-*Everyone flies... some fly longer than others.* 🦇
